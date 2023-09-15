@@ -1,6 +1,6 @@
 # Introduction
 
-Hello, everyone! My name is Caleb Hatch. I am a Computer IT major at BYU-Idaho.
+Hello, everyone! My name is Caleb Hatch. I'm majoring in Computer IT at BYU-Idaho.
 
 # Hobbies
 
